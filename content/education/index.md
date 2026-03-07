@@ -22,7 +22,8 @@ draft: false
 
 **Key Achievements:**
 - Engineered deep learning pipeline with 73.9% F1 score on 87K+ ECG classifications
-- Specialized in machine learning, optimization, and research methodologies
+- Specialized in data science, machine learning, optimization, and research methodologies
+- Conducting research at the <a href="https://irl.tech.cornell.edu/" target="_blank">Interaction Research Lab</a>
 
 **Location:** Cornell Tech, New York, NY
 
@@ -36,7 +37,7 @@ draft: false
 
 **Honors & Recognition:**
 - GPA: 3.98
-- Academic Excellence Award in Data Science
+- Academic Excellence Award in Data Science (Top 1 in my class)
 - Outstanding Academic Athlete Award
 - Faculty Memorial Scholarship
 - 4x MAAC All-Academic Team
