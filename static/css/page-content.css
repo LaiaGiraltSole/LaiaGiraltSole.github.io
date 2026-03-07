@@ -1,0 +1,398 @@
+/* ── Page Content Styles for Inner Pages ───────────────── */
+
+/* ── Page Hero ─────────────────────────────────────────── */
+.page-hero {
+    background: linear-gradient(135deg, #7f1d1d 0%, #dc2626 60%, #ef4444 100%);
+    background-size: 200% 200%;
+    animation: heroPulse 8s ease infinite;
+    color: white;
+    padding: 100px 24px 80px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+}
+
+@keyframes heroPulse {
+    0%, 100% { background-position: 0% 50%; }
+    50%       { background-position: 100% 50%; }
+}
+
+/* subtle dot-grid overlay — data science aesthetic */
+.page-hero::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background-image: radial-gradient(circle, rgba(255,255,255,0.18) 1px, transparent 1px);
+    background-size: 30px 30px;
+    pointer-events: none;
+}
+
+.page-hero-inner {
+    position: relative;
+    z-index: 1;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.page-hero-inner h1 {
+    font-size: 3rem !important;
+    font-weight: 800 !important;
+    color: white !important;
+    margin-bottom: 14px !important;
+    letter-spacing: -0.02em;
+}
+
+.page-subtitle {
+    font-size: 1.1rem;
+    opacity: 0.88;
+    font-weight: 300;
+    max-width: 580px;
+    margin: 0 auto;
+    color: white;
+}
+
+/* ── Shared content wrapper ────────────────────────────── */
+.page-content-wrapper {
+    max-width: 860px;
+    margin: 0 auto;
+    padding: 60px 24px 80px;
+}
+
+/* ── Section Cards (injected by JS around h2 blocks) ───── */
+.content-section {
+    background: #fff;
+    border-radius: 16px;
+    padding: 40px;
+    margin-bottom: 32px;
+    border: 1px solid #f1f5f9;
+    border-top: 4px solid #dc2626;
+    box-shadow: 0 4px 24px rgba(0,0,0,0.06);
+    opacity: 0;
+    transform: translateY(28px);
+    transition: opacity 0.6s ease, transform 0.6s ease, box-shadow 0.3s ease;
+}
+
+.content-section.visible {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.content-section:hover {
+    box-shadow: 0 14px 44px rgba(220, 38, 38, 0.10);
+}
+
+.content-section.visible:hover {
+    transform: translateY(-5px);
+}
+
+/* ── Typography inside section cards ──────────────────── */
+.content-section h2 {
+    font-size: 1.75rem !important;
+    font-weight: 800 !important;
+    color: #1e293b !important;
+    margin-bottom: 6px !important;
+    border: none !important;
+}
+
+.content-section h3 {
+    font-size: 0.85rem !important;
+    font-weight: 700 !important;
+    color: #dc2626 !important;
+    text-transform: uppercase;
+    letter-spacing: 0.07em;
+    margin: 22px 0 10px !important;
+}
+
+.content-section p {
+    color: #475569;
+    line-height: 1.75;
+    margin-bottom: 12px;
+}
+
+.content-section strong {
+    color: #1e293b;
+    font-weight: 600;
+}
+
+.content-section hr { display: none; }
+
+.content-section ul {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 16px;
+}
+
+.content-section ul li {
+    padding: 5px 0 5px 22px;
+    position: relative;
+    color: #475569;
+    line-height: 1.65;
+}
+
+.content-section ul li::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 13px;
+    width: 7px;
+    height: 7px;
+    background: #dc2626;
+    border-radius: 50%;
+}
+
+.content-section img {
+    border-radius: 10px;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.10);
+    margin: 8px 0 16px 20px;
+}
+
+/* ── Timeline Cards (experience roles, injected by JS) ── */
+.timeline-card {
+    background: #fff;
+    border-radius: 14px;
+    padding: 32px 36px;
+    margin-bottom: 24px;
+    border: 1px solid #f1f5f9;
+    border-left: 5px solid #dc2626;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.05);
+    opacity: 0;
+    transform: translateX(-24px);
+    transition: opacity 0.55s ease, transform 0.55s ease, box-shadow 0.3s ease;
+}
+
+.timeline-card.visible {
+    opacity: 1;
+    transform: translateX(0);
+}
+
+.timeline-card.visible:hover {
+    transform: translateX(6px);
+    box-shadow: 0 10px 36px rgba(220,38,38,0.10);
+}
+
+.timeline-card h3 {
+    font-size: 1.2rem !important;
+    font-weight: 700 !important;
+    color: #1e293b !important;
+    margin-bottom: 4px !important;
+    text-transform: none !important;
+    letter-spacing: 0 !important;
+}
+
+.timeline-card p {
+    color: #475569;
+    line-height: 1.72;
+    margin-bottom: 10px;
+}
+
+.timeline-card strong {
+    color: #1e293b;
+}
+
+.timeline-card ul {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 12px;
+}
+
+.timeline-card ul li {
+    padding: 4px 0 4px 22px;
+    position: relative;
+    color: #475569;
+    line-height: 1.65;
+}
+
+.timeline-card ul li::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 12px;
+    width: 7px;
+    height: 7px;
+    background: #dc2626;
+    border-radius: 50%;
+}
+
+/* ── Skill inline tags (converted by JS) ─────────────── */
+.skill-inline {
+    display: inline-block;
+    background: rgba(220,38,38,0.08);
+    color: #dc2626;
+    padding: 3px 11px;
+    border-radius: 20px;
+    font-size: 0.82rem;
+    font-weight: 600;
+    margin: 3px 3px 0 0;
+    cursor: default;
+    transition: background 0.2s, color 0.2s;
+}
+
+.skill-inline:hover {
+    background: #dc2626;
+    color: white;
+}
+
+/* ── Projects Grid ─────────────────────────────────────── */
+.projects-page-wrapper {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 60px 24px 80px;
+}
+
+.projects-page-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+    gap: 32px;
+}
+
+.proj-card {
+    background: white;
+    border-radius: 16px;
+    padding: 36px;
+    border: 1px solid #f1f5f9;
+    border-top: 4px solid #dc2626;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.06);
+    display: flex;
+    flex-direction: column;
+    opacity: 0;
+    transform: translateY(24px);
+    transition: opacity 0.55s ease, transform 0.55s ease, box-shadow 0.3s ease;
+}
+
+.proj-card.visible {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.proj-card.visible:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 20px 50px rgba(220,38,38,0.14);
+}
+
+.proj-card-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 18px;
+}
+
+.proj-tag {
+    display: inline-block;
+    background: #dc2626;
+    color: white;
+    padding: 4px 12px;
+    border-radius: 20px;
+    font-size: 0.78rem;
+    font-weight: 600;
+}
+
+.proj-card h2 {
+    font-size: 1.4rem !important;
+    font-weight: 800 !important;
+    color: #1e293b !important;
+    margin-bottom: 12px !important;
+    border: none !important;
+}
+
+.proj-card p {
+    color: #475569;
+    line-height: 1.72;
+    flex-grow: 1;
+    margin-bottom: 24px;
+}
+
+.proj-read-more {
+    display: inline-block;
+    color: #dc2626;
+    font-weight: 700;
+    text-decoration: none;
+    transition: transform 0.2s;
+}
+
+.proj-read-more:hover {
+    transform: translateX(6px);
+}
+
+/* ── Individual Project Page ──────────────────────────── */
+.project-page-content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 60px 24px 80px;
+}
+
+.back-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    color: #dc2626;
+    font-weight: 700;
+    text-decoration: none;
+    margin-bottom: 40px;
+    transition: transform 0.2s;
+    font-size: 0.95rem;
+}
+
+.back-btn:hover {
+    transform: translateX(-6px);
+}
+
+.project-page-content h2 {
+    font-size: 1.5rem !important;
+    font-weight: 800 !important;
+    color: #1e293b !important;
+    margin: 36px 0 14px !important;
+    padding-bottom: 10px !important;
+    border-bottom: 3px solid #dc2626 !important;
+}
+
+.project-page-content h3 {
+    font-size: 1.1rem !important;
+    font-weight: 700 !important;
+    color: #dc2626 !important;
+    margin: 24px 0 10px !important;
+}
+
+.project-page-content p {
+    color: #475569;
+    line-height: 1.8;
+    margin-bottom: 16px;
+}
+
+.project-page-content strong {
+    color: #1e293b;
+}
+
+.project-page-content ul,
+.project-page-content ol {
+    list-style: none;
+    padding: 0;
+    margin-bottom: 16px;
+}
+
+.project-page-content li {
+    padding: 5px 0 5px 22px;
+    position: relative;
+    color: #475569;
+    line-height: 1.7;
+}
+
+.project-page-content ul li::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 13px;
+    width: 7px;
+    height: 7px;
+    background: #dc2626;
+    border-radius: 50%;
+}
+
+/* ── Responsive ────────────────────────────────────────── */
+@media (max-width: 768px) {
+    .page-hero-inner h1 { font-size: 2.2rem !important; }
+    .content-section { padding: 28px 22px; }
+    .timeline-card { padding: 24px 20px; }
+    .projects-page-grid { grid-template-columns: 1fr; }
+    .proj-card { padding: 28px; }
+    .project-page-content { padding: 40px 16px; }
+}

@@ -15,3 +15,6 @@
 /* nudge the whole profile block down a bit so the circle has breathing room */
 .profile { margin-top: 8px; }
 </style>
+{{ if not .IsHome }}
+<link rel="stylesheet" href="/css/page-content.css">
+{{ end }}

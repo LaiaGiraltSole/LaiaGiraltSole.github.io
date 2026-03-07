@@ -1,0 +1,18 @@
+{{ define "main" }}
+<div class="page-hero">
+    <div class="page-hero-inner">
+        <div class="proj-card-tags" style="justify-content:center; margin-bottom:16px;">
+            {{ range .Params.tags }}
+            <span class="proj-tag">{{ . }}</span>
+            {{ end }}
+        </div>
+        <h1>{{ .Title }}</h1>
+        <p class="page-subtitle">{{ .Summary }}</p>
+    </div>
+</div>
+
+<div class="project-page-content">
+    <a href="/projects/" class="back-btn">← All Projects</a>
+    {{ .Content }}
+</div>
+{{ end }}

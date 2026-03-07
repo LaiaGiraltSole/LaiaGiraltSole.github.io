@@ -91,9 +91,9 @@
             const time = Date.now() * 0.0003;
 
             // Color shifts for visual interest
-            gradient.addColorStop(0, `hsl(${210 + Math.sin(time) * 20}deg, 95%, 55%)`);
-            gradient.addColorStop(0.5, `hsl(${280 + Math.sin(time * 0.5) * 20}deg, 85%, 60%)`);
-            gradient.addColorStop(1, `hsl(${340 + Math.sin(time * 0.3) * 20}deg, 90%, 65%)`);
+            gradient.addColorStop(0, `hsl(${355 + Math.sin(time) * 8}deg, 85%, 30%)`);
+            gradient.addColorStop(0.5, `hsl(${5 + Math.sin(time * 0.5) * 8}deg, 88%, 42%)`);
+            gradient.addColorStop(1, `hsl(${15 + Math.sin(time * 0.3) * 8}deg, 90%, 52%)`);
 
             ctx.fillStyle = gradient;
             ctx.fillRect(0, 0, canvas.width, canvas.height);

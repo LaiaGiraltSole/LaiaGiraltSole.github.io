@@ -1,0 +1,28 @@
+{{ define "main" }}
+<div class="page-hero">
+    <div class="page-hero-inner">
+        <h1>Projects</h1>
+        <p class="page-subtitle">Data science &amp; machine learning — from research to competition wins</p>
+    </div>
+</div>
+
+<div class="projects-page-wrapper">
+    <div class="projects-page-grid">
+        {{ $projects := where .Site.RegularPages "Section" "projects" }}
+        {{ range $projects }}
+        <article class="proj-card">
+            <div class="proj-card-tags">
+                {{ range .Params.tags }}
+                <span class="proj-tag">{{ . }}</span>
+                {{ end }}
+            </div>
+            <h2>{{ .Title }}</h2>
+            <p>{{ .Summary }}</p>
+            <a href="{{ .RelPermalink }}" class="proj-read-more">Read Case Study →</a>
+        </article>
+        {{ end }}
+    </div>
+</div>
+
+<script src="/js/page-animations.js"></script>
+{{ end }}
