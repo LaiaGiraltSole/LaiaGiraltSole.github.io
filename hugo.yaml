@@ -23,7 +23,7 @@ menus:
       weight: 30
     - identifier: "resume"
       name: "Resume"
-      url: "/Laia_Giralt_Sole_Resume032026.pdf"
+      url: "https://drive.google.com/file/d/1t_70lMrAGWvyqNd1wXLBfOOA-2RjZJMo/view?usp=sharing"
       weight: 40
 
 params:
