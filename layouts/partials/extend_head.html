@@ -1,0 +1,17 @@
+<style>
+/* Ensure profile image is square, centered, and covers the circle mask without distortion */
+.profile img {
+  width: 200px !important;
+  height: 200px !important;
+  object-fit: cover;
+  /* move image slightly down inside the circle so forehead isn't cropped */
+  object-position: center 60% !important;
+  border-radius: 50%;
+  display: block;
+}
+@media (max-width: 600px) {
+  .profile img { width: 150px !important; height: 150px !important; object-position: center 60% !important; }
+}
+/* nudge the whole profile block down a bit so the circle has breathing room */
+.profile { margin-top: 8px; }
+</style>

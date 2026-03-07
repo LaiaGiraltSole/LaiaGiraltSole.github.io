@@ -1,0 +1,75 @@
+baseURL: 'https://LaiaGiraltSole.github.io/'
+languageCode: 'en-us'
+title: 'Laia Giralt Solé'
+theme: 'PaperMod' # Using PaperMod as base but heavily customizing
+
+menus:
+  main:
+    - identifier: "about"
+      name: "About"
+      url: /#about
+      weight: 10
+    - identifier: "projects"
+      name: "Projects"
+      url: /projects/
+      weight: 20
+    - identifier: "education"
+      name: "Education"
+      url: /education/
+      weight: 25
+    - identifier: "experience"
+      name: "Experience"
+      url: /experience/
+      weight: 30
+    - identifier: "resume"
+      name: "Resume"
+      url: "/Laia_Giralt_Sole_Resume032026.pdf"
+      weight: 40
+
+params:
+  # Disable PaperMod profile mode - using custom layout
+  profileMode:
+    enabled: false
+  
+  # Social icons  
+  socialIcons:
+    - name: email
+      url: "mailto:l03gira@cornell.edu"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/laiagiraltsole/"
+    - name: github
+      url: "https://github.com/LaiaGiraltSole"
+
+  # Custom portfolio settings
+  portfolio:
+    name: "Laia Giralt Solé"
+    title: "Data Science & Machine Learning"
+    subtitle: "Turning data into actionable insights.<br/>Cornell University M.Eng. in Data Science"
+    cta: "Let's build something data-driven"
+    gradient: true  # Enable gradient backgrounds
+    
+  # Feature highlights
+  highlights:
+    - title: "Data Analysis"
+      icon: "📊"
+      desc: "87K+ records, SQL, Python, statistical modeling"
+    - title: "Deep Learning"
+      icon: "🧠"
+      desc: "Transfer learning, computer vision, ECG classification"
+    - title: "Product Impact"
+      icon: "🎯"
+      desc: "Won DataFest competition with actionable insights"
+
+# These must NOT be indented under params
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+

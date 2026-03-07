@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Home on Laia Giralt Solé</title>
+    <link>https://LaiaGiraltSole.github.io/</link>
+    <description>Recent content in Home on Laia Giralt Solé</description>
+    <generator>Hugo -- 0.154.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://LaiaGiraltSole.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Education</title>
+      <link>https://LaiaGiraltSole.github.io/education/</link>
+      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://LaiaGiraltSole.github.io/education/</guid>
+      <description>&lt;h2 id=&#34;-cornell-university&#34;&gt;🎓 Cornell University&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;M.Eng. in Data Science &amp;amp; Decision Analytics&lt;/strong&gt; · New York, NY · May 2026&lt;/p&gt;
+&lt;img src=&#34;https://LaiaGiraltSole.github.io/Cornell_University_seal.svg.png&#34; alt=&#34;Cornell University&#34; style=&#34;width: 120px; float: right; margin-left: 20px; margin-bottom: 20px;&#34;&gt;
+&lt;p&gt;&lt;strong&gt;Honors &amp;amp; Recognition:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Merit Scholarship recipient&lt;/li&gt;
+&lt;li&gt;GPA: 3.93&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Relevant Coursework:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Applied Machine Learning&lt;/li&gt;
+&lt;li&gt;Applied Data Science&lt;/li&gt;
+&lt;li&gt;Optimization Methods&lt;/li&gt;
+&lt;li&gt;Revenue Management&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Key Achievements:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Engineered deep learning pipeline with 73.9% F1 score on 87K+ ECG classifications&lt;/li&gt;
+&lt;li&gt;Specialized in machine learning, optimization, and research methodologies&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; Cornell Tech, New York, NY&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Experience</title>
+      <link>https://LaiaGiraltSole.github.io/experience/</link>
+      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://LaiaGiraltSole.github.io/experience/</guid>
+      <description>&lt;h2 id=&#34;professional-journey&#34;&gt;Professional Journey&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;ve worked on impactful projects spanning research, data analysis, and machine learning. Here&amp;rsquo;s how I&amp;rsquo;ve grown as a data scientist.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-interaction-research-lab-cornell-tech&#34;&gt;🤖 &lt;strong&gt;Interaction Research Lab, Cornell Tech&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Independent Researcher&lt;/strong&gt; · New York, NY · December 2025 – Present&lt;/p&gt;
+&lt;p&gt;Collaborating on human-AI interaction research for real-world deployment in retail environments.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What I&amp;rsquo;m doing:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Architecting data models and storage strategies for multimodal data (interaction logs, sensor data, video)&lt;/li&gt;
+&lt;li&gt;Designing longitudinal study metrics to evaluate robot social capabilities&lt;/li&gt;
+&lt;li&gt;Conducting exploratory analyses of interaction patterns and social behaviors&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Skills applied:&lt;/strong&gt; Data engineering, Research design, Database architecture, Data exploration&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>https://LaiaGiraltSole.github.io/projects/</link>
+      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://LaiaGiraltSole.github.io/projects/</guid>
+      <description>&lt;p&gt;I love solving real-world problems with data. Here&amp;rsquo;s where I&amp;rsquo;ve applied machine learning, statistical analysis, and data engineering to drive meaningful results.&lt;/p&gt;
+&lt;h3 id=&#34;-data-analytics-competition&#34;&gt;📊 Data Analytics Competition&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://LaiaGiraltSole.github.io/projects/datafest/&#34;&gt;DataFest — CourseKata Engagement Analysis&lt;/a&gt;&lt;/strong&gt; - Won &amp;ldquo;Best Insight Award&amp;rdquo; at a data competition. Analyzed 1.5 GB of educational engagement data to discover what drives learning.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Key Finding:&lt;/strong&gt; Interactive content drove &lt;strong&gt;~70% increase&lt;/strong&gt; in time-on-page compared to static pages.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tech:&lt;/strong&gt; Python, Statistical correlation analysis, Data visualization, Storytelling&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Resume</title>
+      <link>https://LaiaGiraltSole.github.io/resume/</link>
+      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://LaiaGiraltSole.github.io/resume/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://LaiaGiraltSole.github.io/Laia_Giralt_Sole_Resume032026.pdf&#34;&gt;Download PDF resume&lt;/a&gt;{.button}&lt;/p&gt;
+&lt;h2 id=&#34;laia-giralt-solé--resume-summary&#34;&gt;Laia Giralt Solé — Resume (Summary)&lt;/h2&gt;
+&lt;p&gt;New York, NY • 518-888-0399 • &lt;a href=&#34;mailto:l03gira@cornell.edu&#34;&gt;l03gira@cornell.edu&lt;/a&gt; • &lt;a href=&#34;https://www.linkedin.com/in/laiagiraltsole/&#34;&gt;linkedin.com/in/laiagiraltsole/&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;education&#34;&gt;Education&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Cornell Tech, Cornell University — M.Eng. in Data Science and Decision Analytics (May 2026)
+&lt;ul&gt;
+&lt;li&gt;Merit Scholarship • GPA: 3.93&lt;/li&gt;
+&lt;li&gt;Relevant coursework: Applied Machine Learning, Applied Data Science, Optimization Methods, Revenue Management&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Siena University — B.S. in Data Science and Computer Science (May 2025)
+&lt;ul&gt;
+&lt;li&gt;GPA: 3.98 • Academic Excellence Award in Data Science&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;technical-skills&#34;&gt;Technical Skills&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Languages: Python, SQL, Java, R&lt;/li&gt;
+&lt;li&gt;Tools &amp;amp; Platforms: Microsoft Office Suite, Excel, Figma, Generative AI&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;professional-experience&#34;&gt;Professional Experience&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Interaction Research Lab, Cornell Tech — Independent Research (Dec 2025 – Present)&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

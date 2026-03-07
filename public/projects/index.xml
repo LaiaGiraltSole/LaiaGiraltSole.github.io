@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Projects on Laia Giralt Solé</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on Laia Giralt Solé</description>
+    <generator>Hugo -- 0.154.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EGC Heartbeat Classification and Deep Learning Analysis</title>
+      <link>http://localhost:1313/projects/egc-heartbeat/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/egc-heartbeat/</guid>
+      <description>&lt;p&gt;September – December 2024&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;I engineered a multi-class deep learning pipeline to classify 87,000+ ECG heartbeat images into five diagnostic categories to enable high-precision automated screening.&lt;/p&gt;
+&lt;p&gt;Details&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Architectures: Transfer learning with ResNet-18 and DenseNet-121 (pretrained weights).&lt;/li&gt;
+&lt;li&gt;Results: Peak macro F1 score of 0.739, outperforming custom CNN baselines by ~40%.&lt;/li&gt;
+&lt;li&gt;Techniques: Probabilistic noise-based augmentation, inverse-square-root weighted oversampling, robust data pipeline to mitigate class imbalance and distribution shifts.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Resources&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/Laia_Giralt_Sole_Resume.pdf&#34;&gt;Download resume&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DataFest — CourseKata Engagement Analysis</title>
+      <link>http://localhost:1313/projects/datafest/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/datafest/</guid>
+      <description>&lt;p&gt;DataFest — CourseKata Engagement Analysis&lt;/p&gt;
+&lt;p&gt;January - May 2024&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Award:&lt;/strong&gt; Winner of the Best Insight Award at DataFest&lt;/p&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Analyzed 1.5 GB of student engagement data from CourseKata to uncover what drives meaningful learning interactions. Delivered actionable insights that helped stakeholders understand how interactivity influences engagement and learning outcomes.&lt;/p&gt;
+&lt;h2 id=&#34;key-contributions&#34;&gt;Key Contributions&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Tools &amp;amp; Methods:&lt;/strong&gt; Python for data cleaning, processing, and visualization; merged session logs with content metadata to assess engagement quality.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Findings&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
