@@ -6,6 +6,27 @@
     <description>Recent content in Healthcare on Laia Giralt Solé</description>
     <generator>Hugo -- 0.154.3</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://LaiaGiraltSole.github.io/tags/healthcare/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EGC Heartbeat Classification and Deep Learning Analysis</title>
+      <link>https://LaiaGiraltSole.github.io/projects/egc-heartbeat/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://LaiaGiraltSole.github.io/projects/egc-heartbeat/</guid>
+      <description>&lt;h2 id=&#34;-ecg-heartbeat-classification-with-transfer-learning&#34;&gt;🧠 ECG Heartbeat Classification with Transfer Learning&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; September – December 2024&lt;br&gt;
+&lt;strong&gt;Dataset:&lt;/strong&gt; 87,000+ ECG heartbeat images&lt;br&gt;
+&lt;strong&gt;Target:&lt;/strong&gt; 5 diagnostic categories (Normal, PVC, PAC, Fusion, Unknown)&lt;br&gt;
+&lt;strong&gt;Performance:&lt;/strong&gt; F1 Score 0.739 (+40% vs. baseline CNN)&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;the-clinical-problem&#34;&gt;The Clinical Problem&lt;/h2&gt;
+&lt;p&gt;Cardiac arrhythmias affect millions globally, yet manual ECG screening is time-consuming and prone to human error. Healthcare systems need automated classification systems that are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Accurate:&lt;/strong&gt; Minimize false negatives (missed abnormalities)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fast:&lt;/strong&gt; Real-time processing at scale&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reliable:&lt;/strong&gt; Handle class imbalance and noisy data&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Challenge:&lt;/strong&gt; ECG datasets suffer from severe class imbalance (abnormal cases are rare) and domain shift between hospitals.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
