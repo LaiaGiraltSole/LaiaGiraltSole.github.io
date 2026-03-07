@@ -81,9 +81,10 @@
                 var colon = text.indexOf(':');
                 var label = text.substring(0, colon);
                 var skills = text.substring(colon + 1).split(',');
+                var tagClass = label.trim().toLowerCase() === 'also' ? 'skill-inline-secondary' : 'skill-inline';
                 p.innerHTML = '<strong>' + label + ':</strong> ' +
                     skills.map(function (s) {
-                        return '<span class="skill-inline">' + s.trim() + '</span>';
+                        return '<span class="' + tagClass + '">' + s.trim() + '</span>';
                     }).join(' ');
             }
         });

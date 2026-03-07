@@ -41,11 +41,9 @@ Processed and analyzed survey data from the National Assessment for Service and 
 
 ## Skills & Competencies
 
-**Languages:** Python, SQL, Java, R
+**Languages:** Python, SQL, R
 **Deep Learning:** TensorFlow, PyTorch
-**ML & Data:** Transfer learning, Statistical modeling, Class imbalance handling
-**Tools:** Jupyter, Figma
-**Productivity:** Microsoft Office Suite
-**Core Strengths:** Statistical thinking, Data storytelling, Research design
-**Problem Solving:** Problem-solving
+**ML:** Transfer learning
+
+**Tools:** Figma, Microsoft Office Suite, Excel, Data storytelling, Research
 

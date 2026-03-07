@@ -258,6 +258,23 @@
     color: white;
 }
 
+.skill-inline-secondary {
+    display: inline-block;
+    background: rgba(30, 41, 59, 0.07);
+    color: #1e293b;
+    padding: 3px 11px;
+    border-radius: 20px;
+    font-size: 0.82rem;
+    font-weight: 600;
+    margin: 3px 3px 0 0;
+    cursor: default;
+    transition: background 0.2s;
+}
+
+.skill-inline-secondary:hover {
+    background: rgba(30, 41, 59, 0.15);
+}
+
 /* ── Projects Grid ─────────────────────────────────────── */
 .projects-page-wrapper {
     max-width: 1100px;
