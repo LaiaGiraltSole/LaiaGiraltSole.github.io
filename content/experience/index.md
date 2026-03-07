@@ -31,7 +31,7 @@ Processed and analyzed survey data from the National Assessment for Service and 
 
 **Highlights:**
 - **90,000+** respondents across 90+ institutions
-- Built predictive models and dashboards for CareerJam (the most powerful workforce solution that puts students first)
+- Built predictive models and dashboards for <a href="https://www.career-jam.com/about" target="_blank">CareerJam</a> (the most powerful workforce solution that puts students first)
 - Mentored 10 incoming interns on data workflows and best practices
 - Delivered actionable insights to stakeholders via visualizations and reports
 
