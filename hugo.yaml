@@ -52,7 +52,7 @@ params:
   highlights:
     - title: "Data Analysis"
       icon: "📊"
-      desc: "87K+ records, SQL, Python, statistical modeling"
+      desc: "90K+ records, SQL, Python, statistical modeling"
     - title: "Deep Learning"
       icon: "🧠"
       desc: "Transfer learning, computer vision, ECG classification"
