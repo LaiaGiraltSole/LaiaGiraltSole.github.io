@@ -17,7 +17,7 @@ draft: false
 
 CourseKata, an educational platform for teaching data science and statistics, wanted to understand what drives meaningful engagement with their textbooks. Our team competed in DataFest to uncover insights that would help them improve learning outcomes for thousands of students.
 
-**Research question:** What drives engagement and retention with interactive content?
+**Research question:** What drives engagement and retention during learning?
 
 ---
 
