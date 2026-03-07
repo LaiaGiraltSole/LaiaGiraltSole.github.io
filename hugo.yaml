@@ -9,22 +9,22 @@ menus:
       name: "About"
       url: /#about
       weight: 10
-    - identifier: "projects"
-      name: "Projects"
-      url: /projects/
-      weight: 20
     - identifier: "education"
       name: "Education"
       url: /education/
-      weight: 25
+      weight: 20
     - identifier: "experience"
       name: "Experience"
       url: /experience/
       weight: 30
+    - identifier: "projects"
+      name: "Projects"
+      url: /projects/
+      weight: 40
     - identifier: "resume"
       name: "Resume"
       url: "https://drive.google.com/file/d/1t_70lMrAGWvyqNd1wXLBfOOA-2RjZJMo/view?usp=sharing"
-      weight: 40
+      weight: 50
 
 params:
   # Disable PaperMod profile mode - using custom layout
