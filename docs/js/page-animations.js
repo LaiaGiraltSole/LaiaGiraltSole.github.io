@@ -68,12 +68,15 @@
         }
     }
 
-    // Convert "Skills applied: X, Y, Z" paragraphs into inline tag chips
+    // Convert any "Label: X, Y, Z" paragraphs into inline tag chips
     function convertSkillLines() {
-        var pattern = /^(Skills applied|Languages|ML & Data|Tools|Core Strengths)\s*:/i;
+        var pattern = /^[\w][\w\s&]+\s*:/;
         document.querySelectorAll('.timeline-card p, .content-section p').forEach(function (p) {
             var text = p.textContent.trim();
-            var match = text.match(pattern);
+            var firstChild = p.firstChild;
+            // Only convert if the paragraph starts with a <strong> element (bold label)
+            var startsWithBold = firstChild && firstChild.nodeName === 'STRONG';
+            var match = startsWithBold && text.match(pattern);
             if (match) {
                 var colon = text.indexOf(':');
                 var label = text.substring(0, colon);
