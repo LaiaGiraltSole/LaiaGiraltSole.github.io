@@ -1,0 +1,62 @@
+LAIA GIRALT SOLE 
+New York, NY | 518-888-0399 | lg669@cornell.edu | linkedin.com/in/laiagiraltsole 
+ 
+EDUCATION 
+Cornell Tech, Cornell University                             New York, NY  
+M.Eng. in Data Science and Decision Analytics | Merit Scholarship | GPA: 3.93                                                                   May 2026 
+Relevant Coursework: Applied Machine Learning, Applied Data Science, Optimization Methods, Revenue Management 
+ 
+Siena University                                                             Albany, NY 
+B.S. in Data Science and Computer Science | GPA: 3.98                                                        May 2025 
+Academic Excellence Award in Data Science, Outstanding Academic Athlete Award and Faculty Memorial Scholarship 
+ 
+TECHNICAL SKILLS  
+Coding Languages: Python, SQL, Java, R, SPSS 
+Tools: Microsoft Office Suite, Microsoft Excel, Figma, Generative AI 
+ 
+PROFESSIONAL EXPERIENCE 
+Interaction Research Lab at Cornell Tech                                           New York, NY 
+Independent Research                         December 2025 – Present 
+• Collaborating on early-stage development of a human–AI interaction research project, defining data requirements and success 
+metrics for a longitudinal, real-world deployment to evaluate robot social capabilities in high-traffic retail environments. 
+• Designing and prototyping the data model and storage strategy, evaluating database architectures to support multimodal data 
+(interaction logs, sensor data, video). 
+• Conducting exploratory analysis and research to inform future preprocessing, labeling, and quantitative evaluation of human–AI 
+interaction patterns and social expectation violations. 
+ 
+Siena Research Institute at Siena University                                                         Albany, NY 
+Data Analysis Intern                  Sep 2023- May 2025 
+• Cleaned, validated, and analyzed large-scale survey data from 90,000+ respondents across 90+ institutions for the National 
+Assessment for Service and Community Engagement (NASCE) using SQL, Excel, and R. 
+• Developed comprehensive data visualizations, summary tables, and research reports for Career Jam to predict youth career 
+aspirations, translating findings into accessible deliverables for stakeholders. 
+• Served as a mentor to 10 incoming interns, providing guidance, support, and technical feedback throughout their training. 
+ 
+PROJECTS 
+EGC Heartbeat Classification and Deep Learning Analysis                                                  New York, NY 
+Machine Learning Student Project                   September – December 2024 
+• Engineered a multi-class deep learning framework to classify 87,000+ ECG heartbeat images into five diagnostic categories, 
+addressing the critical need for high-precision automated systems to enable early detection of heart-related anomalies. 
+• Implemented transfer learning using ResNet-18 and DenseNet-121 architectures, leveraging pre-trained weights to achieve a peak 
+macro F1 score of 0.739 and outperform custom CNN baselines by over 40%. 
+• Developed a robust data pipeline to mitigate severe class imbalance and distribution shifts using probabilistic noise-based 
+augmentation and inverse-square-root weighted oversampling. 
+ 
+DataFest Competition                    Albany, NY 
+Winner, Best Insight Award                                                                                                                                 January – May 2024 
+• Participated and won DataFest, a data analysis competition, where our team worked with CourseKata data (an educational 
+platform for teaching statistical thinking and data science) to explore ways to increase student engagement with their textbooks. 
+• Analyzed and visualized 1.5 GB of CourseKata engagement data using Python, uncovering a strong positive correlation (r ≈ .727) 
+between time spent on pages and interactive content, highlighting the impact of interactivity on student engagement. 
+• Demonstrated that interactive content drove a ~70% increase in time-on-page, earning the Best Insight Award for the competition. 
+ 
+LEADERSHIP/ EXTRACURRICULAR ACTIVITIES  
+Division 1 NCAA Tennis Team                 Siena University                             
+Team Captain                      September 2021 – May 2025  
+• Organized, managed and lead team schedules, meetings, and training sessions. 
+• 4x MAAC All-Academic Team, 4x All-Conference First Team, Leo and Jeannine Dufort Student-Athlete of the Month Award. 
+ 
+Computing Club, Vice President, Siena University                                                  August 2024 – May 2025 
+• Developed technical and social skills through workshops and opportunities for leadership. 
+• Represented Siena University at the Grace Hopper Celebration, building connections with industry leaders and learning about 
+advancements in Computer Science.
