@@ -18,3 +18,9 @@
 {{ if not .IsHome }}
 <link rel="stylesheet" href="/css/page-content.css">
 {{ end }}
+{{ if .IsHome }}
+<style>
+/* Keep navbar dark on home page — creative-portfolio.css overrides --primary to red */
+.header a, #menu a, .logo a { color: rgb(30, 30, 30) !important; }
+</style>
+{{ end }}
