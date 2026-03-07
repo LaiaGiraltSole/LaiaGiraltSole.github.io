@@ -8,8 +8,9 @@
 
 <div class="projects-page-wrapper">
     <div class="projects-page-grid">
+        {{ $currentPermalink := .RelPermalink }}
         {{ $projects := where .Site.RegularPages "Section" "projects" }}
-        {{ range $projects }}
+        {{ range $projects }}{{ if ne .RelPermalink $currentPermalink }}
         <article class="proj-card">
             <div class="proj-card-tags">
                 {{ range .Params.tags }}
@@ -20,7 +21,7 @@
             <p>{{ .Summary }}</p>
             <a href="{{ .RelPermalink }}" class="proj-read-more">Read Case Study →</a>
         </article>
-        {{ end }}
+        {{ end }}{{ end }}
     </div>
 </div>
 
