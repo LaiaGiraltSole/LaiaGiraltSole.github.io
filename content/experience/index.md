@@ -27,7 +27,7 @@ Collaborating on human-AI interaction research for real-world deployment in reta
 ### 📊 **Siena Research Institute**
 **Data Analysis Intern** · Albany, NY · Sep 2023 – May 2025
 
-Processed and analyzed survey data from the National Assessment for Service and Community Engagement (NASCE).
+Processed and analyzed survey data from the National Assessment for Service and Community Engagement (NASCE) and for CareerJam (the most powerful workforce solution that puts students first).
 
 **Highlights:**
 - **90,000+** respondents across 90+ institutions
@@ -42,8 +42,6 @@ Processed and analyzed survey data from the National Assessment for Service and 
 ## Skills & Competencies
 
 **Languages:** Python, SQL, R
-**Deep Learning:** TensorFlow, PyTorch
-**ML:** Transfer learning
-
+**Deep Learning:** TensorFlow & PyTorch
 **Tools:** Figma, Microsoft Office Suite, Excel, Data storytelling, Research
 
