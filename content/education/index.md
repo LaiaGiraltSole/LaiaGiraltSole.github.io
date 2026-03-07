@@ -32,7 +32,7 @@ draft: false
 
 **B.S. in Data Science and Computer Science** · Albany, NY · May 2025
 
-<img src="/Cornell_University_seal.svg.png" alt="Siena University" style="width: 120px; float: right; margin-left: 20px; margin-bottom: 20px;">
+<img src="/Siena_College.png" alt="Siena University" style="width: 120px; float: right; margin-left: 20px; margin-bottom: 20px;">
 
 **Honors & Recognition:**
 - GPA: 3.98
