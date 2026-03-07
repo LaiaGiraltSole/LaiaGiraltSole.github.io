@@ -1,26 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Competition on Laia Giralt Solé</title>
-    <link>https://LaiaGiraltSole.github.io/tags/competition/</link>
-    <description>Recent content in Competition on Laia Giralt Solé</description>
-    <generator>Hugo -- 0.154.3</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://LaiaGiraltSole.github.io/tags/competition/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>DataFest — CourseKata Engagement Analysis</title>
-      <link>https://LaiaGiraltSole.github.io/projects/datafest/</link>
-      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://LaiaGiraltSole.github.io/projects/datafest/</guid>
-      <description>&lt;h2 id=&#34;-datafest-competition--best-insight-award-winner&#34;&gt;🏆 DataFest Competition — Best Insight Award Winner&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Competition on Laia Giralt Solé</title><link>https://LaiaGiraltSole.github.io/tags/competition/</link><description>Recent content in Competition on Laia Giralt Solé</description><generator>Hugo -- 0.154.3</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://LaiaGiraltSole.github.io/tags/competition/index.xml" rel="self" type="application/rss+xml"/><item><title>DataFest — CourseKata Engagement Analysis</title><link>https://LaiaGiraltSole.github.io/projects/datafest/</link><pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate><guid>https://LaiaGiraltSole.github.io/projects/datafest/</guid><description>&lt;h2 id="-datafest-competition--best-insight-award-winner"&gt;🏆 DataFest Competition — Best Insight Award Winner&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; January – May 2024&lt;br&gt;
 &lt;strong&gt;Award:&lt;/strong&gt; Winner of the Best Insight Award&lt;br&gt;
 &lt;strong&gt;Scale:&lt;/strong&gt; 1.5 GB of student engagement data&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;the-challenge&#34;&gt;The Challenge&lt;/h2&gt;
+&lt;h2 id="the-challenge"&gt;The Challenge&lt;/h2&gt;
 &lt;p&gt;CourseKata, an educational platform for teaching data science and statistics, wanted to understand what drives meaningful engagement with their textbooks. Our team competed in DataFest to uncover insights that would help them improve learning outcomes for thousands of students.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Research question:&lt;/strong&gt; What drives engagement and retention with interactive content?&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+&lt;p&gt;&lt;strong&gt;Research question:&lt;/strong&gt; What drives engagement and retention with interactive content?&lt;/p&gt;</description></item></channel></rss>

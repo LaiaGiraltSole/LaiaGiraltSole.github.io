@@ -52,36 +52,16 @@
         </div>
     </section>
 
-    <!-- Featured Projects Section -->
+    <!-- Projects Section -->
     <section class="projects" id="projects">
         <div class="container">
-            <h2 class="section-title">Featured Projects</h2>
-            <div class="projects-showcase">
-                {{ $projects := where .Site.RegularPages "Section" "projects" }}
-                {{ range first 2 $projects }}
-                <article class="project-card">
-                    <div class="project-content">
-                        <div class="project-meta">
-                            {{ range .Params.tags }}
-                            <span class="tag">{{ . }}</span>
-                            {{ end }}
-                        </div>
-                        <h3>{{ .Title }}</h3>
-                        <p class="project-excerpt">{{ .Summary }}</p>
-                        <div class="project-highlights">
-                            {{ if in .Content "F1 score" }}
-                            <span class="highlight">Deep Learning • Transfer Learning</span>
-                            {{ else if in .Content "Best Insight Award" }}
-                            <span class="highlight">Data Analysis • Won Competition</span>
-                            {{ end }}
-                        </div>
-                        <a href="{{ .RelPermalink }}" class="read-more">Read Full Project →</a>
-                    </div>
-                </article>
-                {{ end }}
+            <h2 class="section-title">Projects</h2>
+            <p style="text-align:center; color:#475569; margin-bottom:36px;">I love solving real-world problems with data. From machine learning to statistical analysis, here's where I apply my skills.</p>
+            <div style="text-align:center;">
+                <a href="/projects/" class="view-all">View All Projects</a>
             </div>
-            <a href="/projects/" class="view-all">View All Projects</a>
-        </section>
+        </div>
+    </section>
 
     <!-- Experience Timeline -->
     <section class="experience" id="experience">
