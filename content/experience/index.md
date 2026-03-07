@@ -27,21 +27,14 @@ Collaborating on human-AI interaction research for real-world deployment in reta
 ### 📊 **Siena Research Institute**
 **Data Analysis Intern** · Albany, NY · Sep 2023 – May 2025
 
-Processed and analyzed survey data from the National Assessment for Service and Community Engagement (NASCE) and for CareerJam (the most powerful workforce solution that puts students first).
+Processed and analyzed survey data from the National Assessment for Service and Community Engagement (NASCE) and for CareerJam.
 
 **Highlights:**
 - **90,000+** respondents across 90+ institutions
-- Built predictive models and dashboards for Career Jam project
+- Built predictive models and dashboards for CareerJam (the most powerful workforce solution that puts students first)
 - Mentored 10 incoming interns on data workflows and best practices
 - Delivered actionable insights to stakeholders via visualizations and reports
 
 **Skills applied:** SQL, R, Excel, Data visualization, Statistical analysis, Leadership
 
----
-
-## Skills & Competencies
-
-**Languages:** Python, SQL, R
-**Deep Learning:** TensorFlow & PyTorch
-**Tools:** Figma, Microsoft Office Suite, Excel, Data storytelling, Research
 
