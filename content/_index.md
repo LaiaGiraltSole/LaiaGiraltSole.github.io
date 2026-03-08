@@ -6,7 +6,7 @@ draft: false
 
 ## 👋 Hi! I'm Laia
 
-I'm a **Data Scientist & Machine Learning Engineer** at Cornell University, passionate about turning complex datasets into actionable insights that drive real-world impact.
+I'm a **Data Science graduate student** at Cornell University, passionate about turning complex datasets into actionable insights that drive real-world impact.
 
 ### What I Do
 - 🧠 **Build & Deploy ML Systems** — Deep learning, transfer learning, statistical modeling
