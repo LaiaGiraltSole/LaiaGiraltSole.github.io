@@ -724,7 +724,11 @@ body {
     }
 
     .scroll-indicator {
-        display: none;
+        display: none !important;
+    }
+
+    .hero {
+        padding-bottom: 60px;
     }
 
     .timeline::before {
