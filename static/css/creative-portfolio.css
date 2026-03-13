@@ -723,6 +723,10 @@ body {
         text-align: center;
     }
 
+    .scroll-indicator {
+        display: none;
+    }
+
     .timeline::before {
         display: none;
     }
