@@ -25,4 +25,4 @@ Actively seeking **data science, machine learning, and analytics roles** where I
 - **Email:** [l03gira@cornell.edu](mailto:l03gira@cornell.edu)
 - **LinkedIn:** [linkedin.com/in/laiagiraltsole](https://www.linkedin.com/in/laiagiraltsole/)
 
-[📥 Download Resume](/Laia_Giralt_Sole_Resume_04.2026.pdf)
+[📥 Download Resume](https://drive.google.com/file/d/1ZEfLxDnLx_cqN_kBsKKJwZ8ov5FicVFG/view?usp=sharing)

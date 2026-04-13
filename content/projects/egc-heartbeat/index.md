@@ -128,6 +128,6 @@ This project deepened my understanding of:
 
 Resources
 
-- [Download resume](/Laia_Giralt_Sole_Resume_04.2026.pdf)
+- [Download resume](https://drive.google.com/file/d/1ZEfLxDnLx_cqN_kBsKKJwZ8ov5FicVFG/view?usp=sharing)
 
 - [EGC Project Report (PDF)](/projects/EGC_Final_Report.pdf)

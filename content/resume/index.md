@@ -4,7 +4,7 @@ date: 2026-02-16T00:00:00Z
 draft: false
 ---
 
-[Download PDF resume](/Laia_Giralt_Sole_Resume_04.2026.pdf){.button}
+[Download PDF resume](https://drive.google.com/file/d/1ZEfLxDnLx_cqN_kBsKKJwZ8ov5FicVFG/view?usp=sharing){.button}
 
 ## Laia Giralt Solé — Resume (Summary)
 
@@ -56,7 +56,7 @@ New York, NY • 518-888-0399 • [l03gira@cornell.edu](mailto:l03gira@cornell.e
 ---
 
 <p>
-  <a class="button" href="/Laia_Giralt_Sole_Resume_04.2026.pdf" target="_blank" rel="noopener">Download PDF</a>
+  <a class="button" href="https://drive.google.com/file/d/1ZEfLxDnLx_cqN_kBsKKJwZ8ov5FicVFG/view?usp=sharing" target="_blank" rel="noopener">Download PDF</a>
 </p>
 
-<iframe src="/Laia_Giralt_Sole_Resume_04.2026.pdf" width="100%" height="800" style="border: none;">Your browser does not support iframes — download the PDF above.</iframe>
+<iframe src="https://drive.google.com/file/d/1ZEfLxDnLx_cqN_kBsKKJwZ8ov5FicVFG/view?usp=sharing" width="100%" height="800" style="border: none;">Your browser does not support iframes — download the PDF above.</iframe>
